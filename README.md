@@ -1,15 +1,16 @@
-# Contribution [#]: [Issue Title]
+# Contribution 1: Dropdown menu shows 2 scroll bars.
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1
+**Student:** Sebastian Ramirez Vega
+**Issue:** https://github.com/apache/superset/issues/35833
+**Status:** Phase I - Complete
 
 ---
 
 ## Why I Chose This Issue
+I chose this issue because it seemed like an intersting balance between being technically approachable while still exposing me to a real production-scale open source codebase. Apache Superset is a widely used project with a large contributor community, so I wanted an issue that would force me to learn how a mature engineering project is structured and how features/bugs are actually tracked in practice. This issue also seemed scoped well enough that I can make steady progress on it over the next few weeks without getting completely overwhelmed by the size of the repository. This is especially important as a TF for AI301.
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+Another reason I chose this issue is that it looks like the kind of problem where understanding the “why” behind the system matters just as much as writing code. I’m hoping working through it will help me improve at debugging unfamiliar systems and also communicating technical reasoning clearly throughout the contribution process. Since AI 301 emphasizes iterative progress and discussion around engineering decisions this felt like a strong issue to learn from over time rather than just trying to rush toward a quick fix.
 
 ---
 
