@@ -1,6 +1,9 @@
 **Contribution Number:** 1
+
 **Student:** Sebastian Ramirez Vega
+
 **Issue:** https://github.com/Yoast/wordpress-seo/issues/8502
+
 **Status:** Phase I - Complete
 
 ---
