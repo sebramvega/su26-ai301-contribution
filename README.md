@@ -1,16 +1,14 @@
-# Contribution 1: Dropdown menu shows 2 scroll bars.
-
 **Contribution Number:** 1
 **Student:** Sebastian Ramirez Vega
-**Issue:** https://github.com/apache/superset/issues/35833
+**Issue:** https://github.com/Yoast/wordpress-seo/issues/8502
 **Status:** Phase I - Complete
 
 ---
 
 ## Why I Chose This Issue
-I chose this issue because it seemed like an intersting balance between being technically approachable while still exposing me to a real production-scale open source codebase. Apache Superset is a widely used project with a large contributor community, so I wanted an issue that would force me to learn how a mature engineering project is structured and how features/bugs are actually tracked in practice. This issue also seemed scoped well enough that I can make steady progress on it over the next few weeks without getting completely overwhelmed by the size of the repository. This is especially important as a TF for AI301.
+I chose Yoast WordPress SEO issue #8502 because it is a clear user-facing bug/feature request with a specific expected behavior: when the Yoast dashboard blog feed cannot be loaded because of an ad blocker or tracker blocker, the plugin should show a helpful error message instead of failing silently or unclearly.
 
-Another reason I chose this issue is that it looks like the kind of problem where understanding the “why” behind the system matters just as much as writing code. I’m hoping working through it will help me improve at debugging unfamiliar systems and also communicating technical reasoning clearly throughout the contribution process. Since AI 301 emphasizes iterative progress and discussion around engineering decisions this felt like a strong issue to learn from over time rather than just trying to rush toward a quick fix.
+This issue seems like a good fit for AI301 because it should let me practice the full open source workflow: understanding an unfamiliar codebase, setting up a local development environment, reproducing the issue, finding the dashboard/widget feed logic, making a small focused change, and testing that the user-facing behavior works correctly. I chose it because the scope appears bounded and the issue is labeled as a good first issue.
 
 ---
 
